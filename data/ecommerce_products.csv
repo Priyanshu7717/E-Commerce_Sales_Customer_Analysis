@@ -1,0 +1,27 @@
+ProductID,ProductName,Category,BasePrice
+1,Laptop,Electronics,14892
+2,Smartphone,Electronics,3578
+3,Headphones,Electronics,36348
+4,Smartwatch,Electronics,32398
+5,Keyboard,Electronics,29556
+6,Mouse,Electronics,18589
+7,Mixer Grinder,Home & Kitchen,13734
+8,Air Fryer,Home & Kitchen,71782
+9,Coffee Maker,Home & Kitchen,11695
+10,Table Lamp,Home & Kitchen,77697
+11,Cookware Set,Home & Kitchen,55602
+12,T-Shirt,Fashion,4465
+13,Jeans,Fashion,4205
+14,Sneakers,Fashion,12580
+15,Jacket,Fashion,28957
+16,Backpack,Fashion,30795
+17,Python Book,Books,66537
+18,SQL Book,Books,79207
+19,Data Analytics Book,Books,3778
+20,Business Book,Books,73863
+21,Fiction Novel,Books,26362
+22,Cricket Bat,Sports,71726
+23,Football,Sports,55287
+24,Running Shoes,Sports,29193
+25,Yoga Mat,Sports,59178
+26,Dumbbells,Sports,77536
